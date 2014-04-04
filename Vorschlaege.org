@@ -12,5 +12,4 @@
 **** Repositorium sollte eine von Topoi/Rechenzentrum verwaltete json-basierte "Datenbank" sein
 ***** - Es sollte KEIN Zugriff von aussen erfolgen, Benutzer haben nur Leserechte.
 ***** - für das infividuelle Hochladen würde sich die Cloud (z.B. ownCloud) eignen.
-***** - sollten Daten wichtig für die Allgemeinheit sein/werden, dann kann man beantragen, diese auf
-das Repositorium zu laden (das gewährleistet Sicherheitsaspekte, aber auch eine Qualitätskontrolle)
+***** - sollten Daten wichtig für die Allgemeinheit sein/werden, dann kann man beantragen, diese auf das Repositorium zu laden (das gewährleistet Sicherheitsaspekte, aber auch eine Qualitätskontrolle)
